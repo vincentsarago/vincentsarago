@@ -10,46 +10,46 @@
 
 <p>
   <a href="https://github.com/cogeotiff/rio-tiler">
-    <img alt="rio-tiler" src="https://img.shields.io/github/stars/cogeotiff/rio-tiler?color=2ecc71&label=rio-tiler&logo=python&logoColor=white" />
+    <img alt="rio-tiler" src="https://img.shields.io/github/stars/cogeotiff/rio-tiler?color=2ecc71&label=rio-tiler&logo=python" />
   </a>
   <a href="https://github.com/cogeotiff/rio-cogeo">
-    <img alt="rio-cogeo" src="https://img.shields.io/github/stars/cogeotiff/rio-cogeo?color=2ecc71&label=rio-cogeo&logo=python&logoColor=white" />
+    <img alt="rio-cogeo" src="https://img.shields.io/github/stars/cogeotiff/rio-cogeo?color=2ecc71&label=rio-cogeo&logo=python" />
   </a>
   <a href="https://github.com/developmentseed/morecantile">
-    <img alt="morecantile" src="https://img.shields.io/github/stars/developmentseed/morecantile?color=2ecc71&label=morecantile&logo=python&logoColor=white" />
+    <img alt="morecantile" src="https://img.shields.io/github/stars/developmentseed/morecantile?color=2ecc71&label=morecantile&logo=python" />
   </a>
   <a href="https://github.com/developmentseed/titiler">
-    <img alt="titiler" src="https://img.shields.io/github/stars/developmentseed/titiler?color=2ecc71&label=TiTiler&logo=python&logoColor=white" />
+    <img alt="titiler" src="https://img.shields.io/github/stars/developmentseed/titiler?color=2ecc71&label=TiTiler&logo=python" />
   </a>
   <a href="https://github.com/developmentseed/tipg">
-    <img alt="tipg" src="https://img.shields.io/github/stars/developmentseed/tipg?color=1abc9c&label=TiPG&logo=python&logoColor=white" />
+    <img alt="tipg" src="https://img.shields.io/github/stars/developmentseed/tipg?color=1abc9c&label=TiPG&logo=python" />
   </a>
   <a href="https://github.com/developmentseed/rio-viz">
-    <img alt="rio-viz" src="https://img.shields.io/github/stars/developmentseed/rio-viz?color=1abc9c&label=rio-viz&logo=python&logoColor=white" />
+    <img alt="rio-viz" src="https://img.shields.io/github/stars/developmentseed/rio-viz?color=1abc9c&label=rio-viz&logo=python" />
   </a>
   <a href="https://github.com/developmentseed/rio-viz">
-    <img alt="rio-viz" src="https://img.shields.io/github/stars/developmentseed/rio-viz?color=1abc9c&label=rio-viz&logo=python&logoColor=white" />
+    <img alt="rio-viz" src="https://img.shields.io/github/stars/developmentseed/rio-viz?color=1abc9c&label=rio-viz&logo=python" />
   </a>
   <a href="https://github.com/developmentseed/geojson-pydantic">
-    <img alt="geojson-pydantic" src="https://img.shields.io/github/stars/developmentseed/geojson-pydantic?color=1abc9c&label=geojson-pydantic&logo=python&logoColor=white" />
+    <img alt="geojson-pydantic" src="https://img.shields.io/github/stars/developmentseed/geojson-pydantic?color=1abc9c&label=geojson-pydantic&logo=python" />
   </a>
   <a href="https://github.com/developmentseed/eoapi">
-    <img alt="eoapi" src="https://img.shields.io/github/stars/developmentseed/eoapi?color=1abc9c&label=eoAPI&logo=python&logoColor=white" />
+    <img alt="eoapi" src="https://img.shields.io/github/stars/developmentseed/eoapi?color=1abc9c&label=eoAPI&logo=framework" />
   </a>
   <a href="https://github.com/developmentseed/eoapi-devseed">
-    <img alt="eoapi-devseed" src="https://img.shields.io/github/stars/developmentseed/eoapi-devseed?color=1abc9c&label=eoapi-devseed&logo=python&logoColor=white" />
+    <img alt="eoapi-devseed" src="https://img.shields.io/github/stars/developmentseed/eoapi-devseed?color=1abc9c&label=eoapi-devseed&logo=framework" />
   </a>
   <a href="https://github.com/stac-utils/stac-fastapi">
-    <img alt="stac-fastapi" src="https://img.shields.io/github/stars/stac-utils/stac-fastapi?color=1abc9c&label=stac-fastapi&logo=python&logoColor=white" />
+    <img alt="stac-fastapi" src="https://img.shields.io/github/stars/stac-utils/stac-fastapi?color=1abc9c&label=stac-fastapi&logo=python" />
   </a>
   <a href="https://github.com/stac-utils/stac-fastapi-pgstac">
-    <img alt="stac-fastapi-pgstac" src="https://img.shields.io/github/stars/stac-utils/stac-fastapi-pgstac?color=1abc9c&label=stac-fastapi-pgstac&logo=python&logoColor=white" />
+    <img alt="stac-fastapi-pgstac" src="https://img.shields.io/github/stars/stac-utils/stac-fastapi-pgstac?color=1abc9c&label=stac-fastapi-pgstac&logo=python" />
   </a>
   <a href="https://github.com/stac-utils/stac-utils/titiler-pgstac">
-    <img alt="stac-utils/titiler-pgstac" src="https://img.shields.io/github/stars/stac-utils/titiler-pgstac?color=1abc9c&label=TiTiler-PgSTAC&logo=python&logoColor=white" />
+    <img alt="stac-utils/titiler-pgstac" src="https://img.shields.io/github/stars/stac-utils/titiler-pgstac?color=1abc9c&label=TiTiler-PgSTAC&logo=python" />
   </a>
   <a href="https://github.com/stac-utils/stac-utils/stac-pydantic">
-    <img alt="stac-utils/stac-pydantic" src="https://img.shields.io/github/stars/stac-utils/stac-pydantic?color=1abc9c&label=stac-pydantic&logo=python&logoColor=white" />
+    <img alt="stac-utils/stac-pydantic" src="https://img.shields.io/github/stars/stac-utils/stac-pydantic?color=1abc9c&label=stac-pydantic&logo=python" />
   </a>
   <!-- Add more as needed -->
 </p>
